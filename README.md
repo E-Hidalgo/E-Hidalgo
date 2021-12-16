@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-hidalgo&label=Profile%20views&color=0e75b6&style=flat" alt="e-hidalgo" /> </p>
 
-- 🔭 I’m currently working on **improving my skills in React & Node.js apart from starting my way in Blockhain Technologies, Web 3.0 and Dapps**
+- 🔭 I’m currently working on **improving my skills in React & Node.js. Besides, I'm starting my way in Blockhain Technologies, Web 3.0 and Dapps**
 
 - 🌱 I’m currently learning **everything! I just started 6 months ago so my glass mostly empty!**
 
