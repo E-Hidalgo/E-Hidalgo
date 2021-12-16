@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **improving my skills in React & Node.js. Besides, I'm starting my way in Blockhain Technologies, Web 3.0 and Dapps**
 
-- 🌱 I’m currently learning **everything! I just started 6 months ago so my glass is mostly empty!**
+- 🌱 I’m currently learning... **actually, I'm learning everything! I just started a few months ago so my glass is mostly empty! But I learn fast.**
 
 - 👯 I’m looking to collaborate on **projects that make some impact in people lives and allow me to continue growing as a professional and human being**
 
