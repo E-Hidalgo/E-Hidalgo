@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences: **I've been working as a Team Leader in hospitality sector for almost 10 years, I'm also trained in Personal and Executive Coaching Methodologies.**
 
-- ⚡ Fun fact **I'm an Onomatopoeia man, always making sounds and noises just to generate a confy and friendly communication**
+- ⚡ Fun fact **I'm an Onomatopoeia man, always making sounds and noises just to generate a confy and friendly communication, yiiiiiiwwwwww 🤙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
