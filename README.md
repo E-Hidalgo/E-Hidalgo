@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-hidalgo&label=Profile%20views&color=0e75b6&style=flat" alt="e-hidalgo" /> </p>
 
-- 🔭 I’m currently working on **improving my skills in React & Node.js**
+- 🔭 I’m currently working on **improving my skills in React & Node.js apart from starting my way in Blockhain Technologies, Web 3.0 and Dapps**
 
 - 🌱 I’m currently learning **everything! I just started 6 months ago so my glass mostly empty!**
 
-- 👯 I’m looking to collaborate on **projects that make some impact in people lives and allow me to keep learninng**
+- 👯 I’m looking to collaborate on **projects that make some impact in people lives and allow me to continue growing as a professional and human being**
 
-- 🤝 I’m looking for help with **MVC pattern, I'm still in progress with this kind of architecture.**
+- 🤝 I’m looking for help with **MVC pattern, I'm still in progress with this kind of architecture. Also any help with Web 3.0 and Blockchain would be helpful**
 
 - 👨‍💻 All of my projects are available at [https://github.com/E-Hidalgo](https://github.com/E-Hidalgo)
 
