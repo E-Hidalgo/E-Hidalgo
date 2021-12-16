@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **koko.freelance@gmail.com**
 
-- 📄 Know about my experiences **I've been working as a Team Leader in hospitality sector for almost 10 years, I'm also trained in Personal and Executive Coaching Methodologies.**
+- 📄 Know about my experiences: **I've been working as a Team Leader in hospitality sector for almost 10 years, I'm also trained in Personal and Executive Coaching Methodologies.**
 
 - ⚡ Fun fact **I'm an Onomatopoeia man, always making sounds and noises just to generate a confy and friendly communication**
 
