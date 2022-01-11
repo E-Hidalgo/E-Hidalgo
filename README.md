@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kike</h1>
-<h3 align="center">A passionate Junior-Full Stack-Underdevelopment developer from Canary Islands, Spain</h3>
+<h3 align="center">A passionate Junior Full-Stack underdevelopment-developer from Canary Islands, Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-hidalgo&label=Profile%20views&color=0e75b6&style=flat" alt="e-hidalgo" /> </p>
 
