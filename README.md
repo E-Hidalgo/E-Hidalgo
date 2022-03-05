@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/E-Hidalgo](https://github.com/E-Hidalgo)
 
-- 📫 How to reach me **koko.freelance@gmail.com**
+- 📫 How to reach me **e.hidalgo.dev@gmail.com**
 
 - 📄 Know about my experiences: **I've been working as a Team Leader in hospitality sector for almost 10 years, I'm also trained in Personal and Executive Coaching Methodologies.**
 
