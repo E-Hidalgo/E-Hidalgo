@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kike</h1>
-<h3 align="center">A passionate Junior Full-Stack underdevelopment-developer from Canary Islands, Spain</h3>
+<h3 align="center">A passionate Junior Full-Stack Developer from Canary Islands, Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-hidalgo&label=Profile%20views&color=0e75b6&style=flat" alt="e-hidalgo" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **projects that make some impact in people lives and allow me to continue growing as a professional and human being**
 
-- 🤝 I’m looking for help with **MVC pattern, I'm still in progress with this kind of architecture. Also any help with Web 3.0 and Blockchain would be helpful**
+- 🤝 I’m looking for help with Web 3.0 and Blockchain Technologies, started to learn solidity.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/E-Hidalgo](https://github.com/E-Hidalgo)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences: **I've been working as a Team Leader in hospitality sector for almost 10 years, I'm also trained in Personal and Executive Coaching Methodologies.**
 
-- ⚡ Fun fact **I'm an Onomatopoeia man, always making sounds and noises just to generate a confy and friendly communication, yiiiiiiwwwwww 🤙**
+- ⚡ Fun fact **I'm an Onomatopoeia man, always making sounds and noises just to generate a confy and friendly communication, yeeewwwwww 🤙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
